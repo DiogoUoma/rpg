@@ -1,0 +1,33 @@
+.races_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Hallowed Grounds";
+}
+
+.races_title {
+  font-size: 4em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.races_list {
+  list-style: none;
+  padding: 0;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.races_list_item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.races_list_img {
+  width: 15em;
+  height: 20em;
+}

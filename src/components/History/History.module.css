@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Dalelands Uncial";
+  src: url("../../assets/fonts/DalelandsUncialBold.ttf");
+}
+
+.history_container {
+  background-color: #eeeeee;
+  color: #000;
+  letter-spacing: 0.2em;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  padding: 2em;
+  height: 100vh;
+}
+
+.history_title {
+  font-family: "Dalelands Uncial";
+  font-size: 5em;
+}
+
+.history_description {
+  font-size: 1.5em;
+  font-family: "Dalelands Uncial";
+}

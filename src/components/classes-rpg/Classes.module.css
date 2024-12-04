@@ -1,0 +1,11 @@
+.classes_container {
+  margin-top: 2em;
+  height: 100vh;
+}
+
+.classes_title {
+  font-family: "Hallowed Grounds";
+  font-size: 4em;
+  text-align: center;
+  text-decoration: underline;
+}

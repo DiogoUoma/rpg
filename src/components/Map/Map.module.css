@@ -1,0 +1,20 @@
+.map {
+  font-family: "Hallowed Grounds";
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.map_title {
+  font-size: 8em;
+  color: #ffffff;
+  text-decoration: underline;
+  text-shadow: 4px 4px 4px #000;
+}
+
+.map {
+  background-image: url("../../assets/map-mundi.png");
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}

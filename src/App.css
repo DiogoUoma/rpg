@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Hallowed Grounds";
+  src: url("../../assets/fonts/HallowedGrounds.otf") format("opentype");
+  font-family: "Dalelands Uncial";
+  src: url("../../assets/fonts/DalelandsUncialBold.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}

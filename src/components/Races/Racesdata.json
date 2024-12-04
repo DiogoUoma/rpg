@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "raca": "Humano",
+    "descricao": "descricao humano",
+    "imagem": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "raca": "Anão",
+    "descricao": "descricao anão",
+    "imagem": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "raca": "Elfo",
+    "descricao": "descricao Elfo",
+    "imagem": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "raca": "Dahlln",
+    "descricao": "descricao dahllan",
+    "imagem": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "raca": "Medusa",
+    "descricao": "descricao medusa",
+    "imagem": "https://via.placeholder.com/150"
+  }
+]

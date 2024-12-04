@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Hallowed Grounds";
+  src: url("../../assets/fonts/HallowedGrounds.otf") format("opentype");
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+.banner .content .title {
+  color: #eeeeee;
+  font-family: "Hallowed Grounds";
+  font-size: 12em;
+  text-decoration: underline;
+  text-shadow: 4px 4px 4px #000;
+  z-index: 1;
+}
+
+.banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("../../assets/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+
+  mask-image: url("../../assets/ink-mask-gif.gif");
+  mask-size: cover;
+  mask-position: center;
+}
