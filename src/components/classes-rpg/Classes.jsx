@@ -19,7 +19,6 @@ const Classes = () => {
             <img src={mago} alt="classe mago" className={styles.class_icon} />
             <h2>Mago</h2>
           </div>
-
           <div className={styles.card} style={{ "--position": 2 }}>
             <img
               src={barbaro}
@@ -28,12 +27,10 @@ const Classes = () => {
             />
             <h2>Barbaro</h2>
           </div>
-
           <div className={styles.card} style={{ "--position": 3 }}>
             <img src={bardo} alt="classe bardo" className={styles.class_icon} />
             <h2>Bardo</h2>
           </div>
-
           <div className={styles.card} style={{ "--position": 4 }}>
             <img
               src={druida}
@@ -42,7 +39,6 @@ const Classes = () => {
             />
             <h2>Druida</h2>
           </div>
-
           <div className={styles.card} style={{ "--position": 5 }}>
             <img
               src={feiticeiro}
@@ -51,7 +47,6 @@ const Classes = () => {
             />
             <h2>Feiticeiro</h2>
           </div>
-
           <div className={styles.card} style={{ "--position": 6 }}>
             <img
               src={ladrao}
@@ -61,7 +56,6 @@ const Classes = () => {
             <h2>Ladrao</h2>
           </div>
         </div>
-
         <div className={styles.model_book}>
           <img src={livro} alt="Livro aberto" />
         </div>
