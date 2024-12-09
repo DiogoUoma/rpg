@@ -1,12 +1,12 @@
 import styles from "./Classes.module.css";
 
-import mago from "../../assets/classes-rpg/mago.png";
-import barbaro from "../../assets/classes-rpg/barbaro.png";
-import bardo from "../../assets/classes-rpg/bardo.png";
-import druida from "../../assets/classes-rpg/druida.png";
-import feiticeiro from "../../assets/classes-rpg/feiticeiro.png";
-import ladrao from "../../assets/classes-rpg/ladrao.png";
-import livro from "../../assets/livro-aberto.png";
+import mago from "../../../assets/classes-rpg/mago.png";
+import barbaro from "../../../assets/classes-rpg/barbaro.png";
+import bardo from "../../../assets/classes-rpg/bardo.png";
+import druida from "../../../assets/classes-rpg/druida.png";
+import feiticeiro from "../../../assets/classes-rpg/feiticeiro.png";
+import ladrao from "../../../assets/classes-rpg/ladrao.png";
+import livro from "../../../assets/livro-aberto.png";
 
 const Classes = () => {
   return (

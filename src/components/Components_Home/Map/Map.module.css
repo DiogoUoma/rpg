@@ -13,7 +13,7 @@
 }
 
 .map {
-  background-image: url("../../assets/map-mundi.png");
+  background-image: url("../../../assets/map-mundi.png");
   background-size: cover;
   background-position: center;
   z-index: -1;

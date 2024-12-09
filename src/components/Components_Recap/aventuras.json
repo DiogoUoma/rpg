@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+
+    "nome_aventura": "A Floresta Encantada",
+
+    "data": "2023-10-01",
+
+    "resumo": "Uma jornada mágica através de uma floresta cheia de criaturas místicas e desafios inesperados."
+  },
+
+  {
+    "id": 2,
+
+    "nome_aventura": "O Tesouro Perdido",
+
+    "data": "2023-10-15",
+
+    "resumo": "Uma busca emocionante por um tesouro perdido em uma ilha deserta, cheia de armadilhas e enigmas."
+  },
+
+  {
+    "id": 3,
+
+    "nome_aventura": "A Batalha dos Reinos",
+
+    "data": "2023-11-05",
+
+    "resumo": "Um épico confronto entre reinos rivais, onde alianças são formadas e traições são reveladas."
+  }
+]
