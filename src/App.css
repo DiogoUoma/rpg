@@ -2,7 +2,9 @@
   font-family: "Hallowed Grounds";
   src: url("../../assets/fonts/HallowedGrounds.otf") format("opentype");
   font-family: "Dalelands Uncial";
-  src: url("../../assets/fonts/DalelandsUncialBold.ttf");
+  src: url("../../assets/fonts/DalelandsUncialBold.ttf") format("opentype");
+  font-family: "Zelda";
+  src: url("../../assets/fonts/Zelda.otf") format("opentype");
 }
 
 body {

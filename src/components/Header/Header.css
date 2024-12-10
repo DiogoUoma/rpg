@@ -8,8 +8,17 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  z-index: 5;
   font-family: "Hallowed Grounds";
+  transition: transform 0.3s ease-in-out;
+  z-index: 1000;
+}
+
+.header_container.hidden {
+  transform: translateY(-100%);
+}
+
+.header_container.visible {
+  transform: translateY(0);
 }
 
 .link {
