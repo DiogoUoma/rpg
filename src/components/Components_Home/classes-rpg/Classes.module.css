@@ -20,13 +20,14 @@
 
 .card_container .slider {
   position: absolute;
+  font-family: "Hallowed Grounds";
   width: 200px;
   height: 100px;
   top: 10%;
   left: calc(50% - 100px);
   transform-style: preserve-3d;
   transform: perspective(1000px);
-  animation: autoRun 20s linear infinite;
+  animation: autoRun 35s linear infinite;
 }
 @keyframes autoRun {
   from {
